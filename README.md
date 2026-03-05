@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:0a0a1a,100:000000&height=320&section=header&text=FAHAD%20BIN%20KHALID&fontSize=72&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20SaaS%20Architect%20%7C%20API%20Craftsman&descSize=18&descAlignY=58&descColor=6366f1&stroke=a855f7&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:0a0a1a,100:000000&height=320&section=header&text=FAHAD%20BIN%20KHALID&fontSize=72&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20SaaS%20Architect%20%7C%20API%20Craftsman&descSize=18&descAlignY=58&descColor=6366f1&stroke=a855f7&strokeWidth=2"/>
 
 <!-- GLITCH TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%E2%9A%A1+Senior+Laravel+%2F+PHP+Architect;%F0%9F%8C%90+Next.js+%2B+Laravel+Full+Stack+Expert;%F0%9F%94%A5+Multi-Tenant+SaaS+Platform+Builder;%F0%9F%9B%A1%EF%B8%8F+Security-First+Clean+Architecture;%F0%9F%9A%80+Scaling+Systems+to+Millions+of+Users;%F0%9F%A7%A0+Distributed+Systems+%26+Cloud+Infrastructure" alt="Typing SVG" />
