@@ -1,132 +1,242 @@
-</td>
-<td width="50%">
+<a href="https://fahadrajpoot537.github.io/Portfolio/">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020817,30:0f172a,60:1e1b4b,100:020817&height=220&section=header&text=Fahad%20Bin%20Khalid&fontSize=58&fontColor=e2e8f0&fontAlignY=45&desc=%3C%20Senior%20Full-Stack%20Engineer%20/%3E&descSize=22&descAlignY=68&descColor=818cf8&animation=blinking&fontAlign=50"/>
+</a>
 
-- 🔭 Building **Scalable SaaS Platforms using Laravel**
-- 🌍 Working on **Property Listing Systems**
-- 🚀 Passionate about **System Architecture & Performance**
-- 🌱 Exploring **Django & Python Ecosystem**
-- 💬 Expert in **Laravel, PHP, REST APIs, Next.js**
-- ⚡ Love **transforming complex ideas into powerful SaaS apps**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Laravel+%E2%80%A2+PHP+%E2%80%A2+Next.js+%E2%80%A2+AWS;Architecting+Scalable+SaaS+%26+High-Performance+Systems;5%2B+Years+of+Building+Production-Grade+Software" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge)](https://fahadrajpoot537.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahad-bin-khalid-experienced-full-stack-laravel-developer-1b2136222/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:fahadrajpoot537@gmail.com)
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fahadrajpoot537&label=PROFILE+VIEWS&color=818cf8&style=for-the-badge&abbreviated=true)](https://github.com/fahadrajpoot537)
+[![GitHub followers](https://img.shields.io/github/followers/fahadrajpoot537?label=FOLLOWERS&style=for-the-badge&color=4f46e5&logo=github)](https://github.com/fahadrajpoot537?tab=followers)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## `$ whoami`
+
+```typescript
+const fahad: Developer = {
+  name:     "Fahad Bin Khalid",
+  role:     "Senior Full-Stack Engineer",
+  location: "Pakistan 🇵🇰",
+  years:    "5+ Years Experience",
+
+  building: [
+    "Scalable SaaS Platforms",
+    "Property Listing Systems",
+    "High-Performance REST APIs",
+  ],
+
+  architecture: "Microservices | MVC | Event-Driven",
+  philosophy:   "Ship fast. Scale smart. Break nothing.",
+
+  currentlyLearning: ["Django", "Python Ecosystem"],
+  openTo:            ["Freelance", "Remote Roles"],
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+## `$ status --live`
+
+<br/>
+
+```bash
+🔭  Working On  →  SaaS Platform (Laravel)
+🌍  Domain      →  Property Listing Systems
+🧠  Learning    →  Django & Python
+🎯  Goal        →  World-class Architecture
+⚡  Superpower  →  Complex → Elegant SaaS
+📬  Reach Me    →  fahadrajpoot537@gmail.com
+```
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/⬡_PORTFOLIO-Visit_Live_Site-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://fahadrajpoot537.github.io/Portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/⬡_LINKEDIN-Connect_Now-0ea5e9?style=for-the-badge&labelColor=0c4a6e)](https://www.linkedin.com/in/fahad-bin-khalid-experienced-full-stack-laravel-developer-1b2136222/)
+
+[![Email](https://img.shields.io/badge/⬡_EMAIL-Send_Message-f43f5e?style=for-the-badge&labelColor=4c0519)](mailto:fahadrajpoot537@gmail.com)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🧠 Tech Stack
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <div align="center">
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## ⬡ &nbsp;`TECH ARSENAL`&nbsp; ⬡
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+</div>
+
+<table width="100%" align="center">
+<tr>
+<td align="center" width="25%">
+
+### ⚙️ Backend Core
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td align="center" width="25%">
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+</td>
+<td align="center" width="25%">
 
-### ☁️ DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🗄️ Data Layer
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🛠️ Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+</td>
+<td align="center" width="25%">
 
-</div>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadrajpoot537&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrajpoot537&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrajpoot537&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=fahadrajpoot537&theme=discord&margin-w=10&margin-h=10&no-frame=true&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadrajpoot537&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Amazing
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fahadrajpoot537.github.io-7c3aed?style=for-the-badge)](https://fahadrajpoot537.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahad_Bin_Khalid-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahad-bin-khalid-experienced-full-stack-laravel-developer-1b2136222/)
-[![Gmail](https://img.shields.io/badge/Gmail-fahadrajpoot537@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:fahadrajpoot537@gmail.com)
+</td>
+</tr>
+</table>
 
 <br/>
 
-> 💡 *"I enjoy designing scalable architectures and transforming complex ideas into powerful SaaS applications."*
+<!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
 
-<br/>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+## ⬡ &nbsp;`PROFICIENCY MATRIX`&nbsp; ⬡
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
 
 </div>
 
----
+```
+Laravel / PHP      ████████████████████░   95%  ⬡ Expert
+REST API Design    ███████████████████░░   92%  ⬡ Expert
+Next.js / React    ██████████████████░░░   88%  ⬡ Advanced
+System Design      █████████████████░░░░   85%  ⬡ Advanced
+AWS / DevOps       ████████████████░░░░░   80%  ⬡ Advanced
+Vue.js             ██████████████░░░░░░░   75%  ⬡ Proficient
+MongoDB            █████████████░░░░░░░░   70%  ⬡ Proficient
+Django / Python    ████████░░░░░░░░░░░░░   40%  ⬡ Learning ↗
+```
+
+<br/>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
 
 <div align="center">
-  <sub>⭐️ Crafted with passion by <strong>Fahad Bin Khalid</strong></sub>
+
+## ⬡ &nbsp;`GITHUB ANALYTICS`&nbsp; ⬡
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadrajpoot537&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&ring_color=4f46e5&border_radius=12&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrajpoot537&layout=donut&theme=tokyonight&hide_border=true&bg_color=020817&title_color=818cf8&text_color=94a3b8&border_radius=12&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrajpoot537&theme=tokyonight&hide_border=true&background=020817&stroke=6366f1&ring=818cf8&fire=f43f5e&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ACTIVITY ═══════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;`CONTRIBUTION TIMELINE`&nbsp; ⬡
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadrajpoot537&theme=tokyo-night&bg_color=020817&color=818cf8&line=6366f1&point=e2e8f0&area_color=4f46e5&area=true&hide_border=true&radius=8"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;`ACHIEVEMENTS`&nbsp; ⬡
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+<img src="https://github-profile-trophy.vercel.app/?username=fahadrajpoot537&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+
+<div align="center">
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+
+[![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f172a?style=for-the-badge)](#)
+
+### `< Let's Build Something Extraordinary />`
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-fahadrajpoot537.github.io-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://fahadrajpoot537.github.io/Portfolio/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Fahad_Bin_Khalid-0ea5e9?style=for-the-badge&labelColor=0c4a6e)](https://www.linkedin.com/in/fahad-bin-khalid-experienced-full-stack-laravel-developer-1b2136222/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📩_EMAIL-fahadrajpoot537@gmail.com-f43f5e?style=for-the-badge&labelColor=4c0519)](mailto:fahadrajpoot537@gmail.com)
+
+<br/>
+
+> *"Designing scalable architectures. Transforming complexity into elegant SaaS."*
+>
+> — **Fahad Bin Khalid**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,40:1e1b4b,70:312e81,100:020817&height=140&section=footer&animation=twinkling"/>
+
 </div>
